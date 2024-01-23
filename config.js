@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+212707676259', 'NAWFAL MD', true]
+  ['+212707676259', '𝙱𝙾𝚃-𝙽𝙰𝘸𝙵𝙰ŀ', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -35,21 +35,21 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 Nawfal BOT BY NAWFAL NL 」`
+global.packname = `「 𝙱𝙾𝚃-𝙽𝙰𝘸𝙵𝙰ŀ BY NAWFAL NL 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NAWFAL BOT - 2023'
-global.bott = 'Nour md'
+global.me = '𝙱𝙾𝚃-𝙽𝙰𝘸𝙵𝙰ŀ - 2023'
+global.bott = 'bot nawfal'
 global.nomorown = '212707676259'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagam.com/noureddine_ouafy'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagram.com/nawfal_the_ghost'
 global.eror = '```404 ᴇʀʀᴏʀ```'
 
 global.rpg = {
