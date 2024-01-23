@@ -8,8 +8,8 @@ const rl = createInterface(process.stdin, process.stdout)
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const require = createRequire(__dirname)
 
-say('Nour\n MD', { font: 'chrome', align: 'center', gradient: ['red', 'magenta'] })
-say('BY NOUREDDINE OUAFY', { font: 'console', align: 'center', gradient: ['red', 'magenta'] })
+say('Nawfal\n MD', { font: 'chrome', align: 'center', gradient: ['red', 'magenta'] })
+say('BY Nawfal nl', { font: 'console', align: 'center', gradient: ['red', 'magenta'] })
 
 var isRunning = false
 /**
